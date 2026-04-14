@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0268-missing-number) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
