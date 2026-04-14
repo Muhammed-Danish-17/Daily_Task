@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0268-missing-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
