@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -26,9 +27,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0242-valid-anagram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
