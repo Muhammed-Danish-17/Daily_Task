@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
