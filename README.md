@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0412-fizz-buzz) |
 | [2469-convert-the-temperature](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/3783-mirror-distance-of-an-integer) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0709-to-lower-case) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -58,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
