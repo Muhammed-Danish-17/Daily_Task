@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0709-to-lower-case) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1920-build-array-from-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
