@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/3783-mirror-distance-of-an-integer) |
