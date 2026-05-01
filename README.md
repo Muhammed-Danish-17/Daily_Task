@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
