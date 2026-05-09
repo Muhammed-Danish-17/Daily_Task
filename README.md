@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3028-ant-on-the-boundary](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/3783-mirror-distance-of-an-integer) |
