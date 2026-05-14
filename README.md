@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0709-to-lower-case) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
