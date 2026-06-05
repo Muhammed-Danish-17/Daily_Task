@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2833-furthest-point-from-origin](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2833-furthest-point-from-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2833-furthest-point-from-origin](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
 | ------- |
