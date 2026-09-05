@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
