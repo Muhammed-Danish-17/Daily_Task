@@ -114,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1068-product-sales-analysis-i) |
+| [1693-daily-leads-and-partners](https://github.com/Muhammed-Danish-17/Daily_Task/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
